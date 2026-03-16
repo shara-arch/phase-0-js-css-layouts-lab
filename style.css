@@ -34,3 +34,6 @@ p{
    }
 
 }
+.cat-breed:hover{
+    transform: scale(1.05);
+}
