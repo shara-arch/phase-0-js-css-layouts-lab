@@ -72,3 +72,6 @@ This lab will assess your ability to apply CSS Flexbox properties to create a re
    - Open the `index.html` file in a web browser to view the changes.
    - Ensure all elements are styled correctly and the layout is responsive.
    - Run `npm test` to test your code and ensure all tests are passing.
+
+--- 
+**This file has been edited by Sharon Moegi**
