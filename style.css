@@ -25,3 +25,12 @@ h3{
 p{
     margin: 0.5em 0 1em;
 }
+@media only screen and (max-width: 768px ) {
+   .cat-breed{
+    flex-direction: column;
+    align-items: center;
+    flex: 1 1 100%;
+    max-width: 100%;
+   }
+
+}
